@@ -1,10 +1,12 @@
 ### Hello World I'm Maxi Albarran! 👋
 
+---
+
 I'm a **Frontend Developer** 🚀 who is passionate about programming, and the new challenges that it constantly proposes 🙌
 
 I'm currently studying a **technical degree in Programming** 👨‍🎓 at the [Universidad Tecnologica Nacional](https://www.frh.utn.edu.ar/carrerastecnicatura_universitaria_en_programacion)📚
 
-The technologies in which I specialize are HTML, CSS, Javascript, React, Typescript. 🤖
+I specialize in many technologies such as HTML, CSS, Javascript, React, Typescript. 🤖
 
 You can see more about me in:
 
