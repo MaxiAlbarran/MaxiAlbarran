@@ -1,6 +1,6 @@
 ### Hello World I'm Maxi Albarran! 👋
 
-I'm a **FrontEnd Developer** 🚀 who is passionate about programming, and the new challenges that it constantly proposes 🙌
+I'm a **Frontend Developer** 🚀 who is passionate about programming, and the new challenges that it constantly proposes 🙌
 
 I'm currently studying a **technical degree in Programming** 👨‍🎓 at the [Universidad Tecnologica Nacional](https://www.frh.utn.edu.ar/carrerastecnicatura_universitaria_en_programacion)📚
 
