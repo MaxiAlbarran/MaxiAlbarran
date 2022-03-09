@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello World I'm Maxi Albarran! 👋
 
-<!--
-**MaxiAlbarran/MaxiAlbarran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **FrontEnd Developer** 🚀 who is passionate about programming, and the new challenges that it constantly proposes 🙌
 
-Here are some ideas to get you started:
+I'm currently studying a **technical degree in Programming** 👨‍🎓 at the [Universidad Tecnologica Nacional](https://www.frh.utn.edu.ar/carrerastecnicatura_universitaria_en_programacion)📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The technologies in which I specialize are HTML, CSS, Javascript, React, Typescript. 🤖
+
+You can see more about me in:
+
+- 👷‍♂️ [Linkedin](https://www.linkedin.com/in/maximiliano-albarr%C3%A1n/) 
+
+- 👨‍💻 [Website](https://maxialbportfolio.netlify.app/)
+
+- 📫 How to reach me: maxialbarran1806@gmail.com 
+
