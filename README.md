@@ -12,7 +12,7 @@ You can see more about me in:
 
 - 👷‍♂️ [Linkedin](https://www.linkedin.com/in/maximiliano-albarr%C3%A1n/) 
 
-- 👨‍💻 [Website](https://maxialbportfolio.netlify.app/)
+- 👨‍💻 [Website](https://albarranportfolio.netlify.app/)
 
 - 📫 How to reach me: maxialbarran1806@gmail.com 
 
